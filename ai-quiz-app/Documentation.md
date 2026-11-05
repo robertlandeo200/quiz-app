@@ -1,0 +1,4 @@
+--- Compile project
+- 1) npm install   
+- 2) npm run install:all
+- 3) npm run dev
